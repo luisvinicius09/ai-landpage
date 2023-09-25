@@ -1,0 +1,11 @@
+html {
+  background-color: #0B1531;
+}
+
+body {
+	width: 100vw;
+	height: 100vh;
+	background-image: url('./assets/main-bg.png');
+	background-repeat: no-repeat;
+  background-size: cover;
+}

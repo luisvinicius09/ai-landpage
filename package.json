@@ -1,0 +1,16 @@
+{
+	"name": "ai-landpage",
+	"version": "1.0.0",
+	"description": "## Design  - https://youtu.be/xv4myqcvVT0?si=qbdZJhuqh0tRf-Ab - https://www.figma.com/community/file/1250806100555056627/sign-up-and-animation",
+	"main": "index.js",
+	"scripts": {
+		"build": "tailwindcss -i ./input.css -o ./dist/output.css",
+		"build:watch": "tailwindcss -i ./input.css -o ./dist/output.css --watch"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"tailwindcss": "^3.3.3"
+	}
+}
